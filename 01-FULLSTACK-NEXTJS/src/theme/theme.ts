@@ -1,6 +1,6 @@
 const theme = {
   typografy: {
-    fontFamily: '"Open Sans"," sans-serif"',
+    fontFamily: 'Open Sans, sans-serif',
   },
 };
 export default theme;
